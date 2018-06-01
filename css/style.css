@@ -6,7 +6,8 @@ a {
     text-decoration: none;
 }
 header {
-    width: 100%;
+    width: 100%
+    max-width: 1366px;
     height: 100%;
 }
 .header {
@@ -68,7 +69,8 @@ header {
     color: #d63c37;
 }
 .center-section {
-    width: 100%;
+    width: 100%
+    max-width: 1366px;
     height: 1440px;
     display: flex;
     align-items: center;
@@ -121,7 +123,8 @@ header {
     margin-right: 25px;
 }
 .footer-section {
-    width: 100%;
+    width: 100%
+    max-width: 1366px;
     height: 1400px;
     background-color: #d63c37;
     display: flex;
